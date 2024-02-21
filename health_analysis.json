@@ -1,0 +1,55 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "imagesrc":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bassmedicalgroup.com%2Fblog-post%2F3-reasons-youd-need-a-thyroid-ultrasound&psig=AOvVaw2iXsZ_Kd70ltYKADshzzSR&ust=1708588172530000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDW7Ij5u4QDFQAAAAAdAAAAABAR",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain or loss",
+          "Dry skin",
+          "Muscle weakness",
+          "Irregular menstrual periods"
+        ],
+        "prevention": [
+          "Eat a balanced diet",
+          "Exercise regularly",
+          "Get regular check-ups"
+        ],
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc":"https://media.post.rvohealth.io/wp-content/uploads/2020/09/doctor_glucosmeter_patient_hand-1200x628-FACEBOOK-1200x628.jpg",
+        "symptoms": [
+          "Frequent urination",
+          "Increased thirst",
+          "Blurry vision",
+          "Fatigue",
+          "Slow healing of cuts or sores"
+        ],
+        "prevention": [
+          "Maintain a healthy weight",
+          "Follow a balanced diet",
+          "Regular exercise"
+        ],
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc":"https://media.self.com/photos/5a0c7df402c0564411bbb8aa/4:3/w_4992,h_3744,c_limit/GettyImages-169372028.jpg",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      }
+    ]
+}
